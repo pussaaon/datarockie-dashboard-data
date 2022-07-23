@@ -1,0 +1,17 @@
+<restaurant>
+	<menu>
+		<name>pizza</name>
+		<price>250</price>
+		<calories>300</calories>
+	</menu>
+	<menu>
+		<name>timsum</name>
+		<price>270</price>
+		<calories>300</calories>
+	</menu>
+	<menu>
+		<name>noodle</name>
+		<price>320</price>
+		<calories>300</calories>
+	</menu>
+</restaurant>
